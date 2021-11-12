@@ -28,8 +28,8 @@ CHAT=Config.CHAT
 msg=Config.msg
 HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam MusicPlayer 2.0 which plays music in @MM_MOVIESS Channels and Groups 24*7.\n\nDeploy Your Own bot from source code below."
 HELP = """
+കൂടുതൽ സഹായം ഒന്നും പ്രദീക്ഷിക്കണ്ട... വേണമെങ്കിൽ @IET_Solupport -ൽ ചോയ്ക്ക്..
 
-<b>
 Use /play <song name> or use /play as a reply to an audio file or youtube link.
 **/restart**  Update and restarts the Bot.
 """
